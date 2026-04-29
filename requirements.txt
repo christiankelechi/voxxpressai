@@ -1,0 +1,6 @@
+PyQt6
+PyQt6-WebEngine
+SpeechRecognition
+googletrans==4.0.0-rc1
+pyttsx3
+PyAudio
